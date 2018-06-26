@@ -1,0 +1,42 @@
+
+/* 5-8 */
+.time--dawn { 
+    background-color: #7090a9;
+    background-image: linear-gradient(0deg, #7090a9 0%, #3066a4 100%);
+
+}
+
+/* 8-12 */
+.time--early-afternoon {
+    background-color: #3066a4;
+    background-image: linear-gradient(0deg, #3066a4 0%, #1b4985 100%);  
+}
+
+/* 12-16 */
+.time--late-afternoon {
+    background-color: #1b4985;
+    background-image: linear-gradient(0deg, #1b4985 0%, #11316c 100%);
+}
+
+/* 16-21 */
+.time-early-night {
+    background-color: #11316c;
+    background-image: linear-gradient(0deg, #11316c 0%, #122456 100%);
+
+}
+/* 21-24 */
+.time-late-night {
+    background-color: #122456;
+    background-image: linear-gradient(0deg, #122456 0%, #0e1c3f 100%);
+}
+
+/* 24-4 */
+.time-early-morning {
+    background-color: #11316c;
+    background-image: linear-gradient(0deg, #11316c 100%, #0e1c3f 0%);
+}
+/* 4-5 */
+.time-late-morning {
+    background-color: #3066a4;
+    background-image: linear-gradient(0deg, #3066a4 100%, #11316c 0%);
+}
